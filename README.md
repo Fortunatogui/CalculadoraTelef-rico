@@ -1,2 +1,2 @@
-# CalculadoraTelef-rico
-Trabalho de Física - 2° ano/UNESPAR
+# CalculadoraTeleferico
+Trabalho/Avaliação bimestral para a matéria de física
